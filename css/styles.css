@@ -18,7 +18,6 @@ body {
     width: 100vw;
     /* Ajusta ancho total */
     min-height: 100vh;
-    overflow: hidden;
     font-family: 'SassoonMontessori';
     background: #fff;
     display: flex;
