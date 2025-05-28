@@ -17,7 +17,8 @@ body {
     /* Evita scroll horizontal */
     width: 100vw;
     /* Ajusta ancho total */
-    height: 100vh;
+    min-height: 100vh;
+    overflow: hidden;
     font-family: 'SassoonMontessori';
     background: #fff;
     display: flex;
